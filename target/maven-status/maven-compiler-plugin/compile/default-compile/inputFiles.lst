@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+C:\Users\gabri\eclipse-workspace\intro_aula\src\main\java\br\com\unipe\aula\config\SpringMvcConfig.java
+C:\Users\gabri\eclipse-workspace\intro_aula\src\main\java\br\com\unipe\aula\config\RootConfig.java
+C:\Users\gabri\eclipse-workspace\intro_aula\src\main\java\br\com\unipe\aula\config\SpringInitConfig.java
+=======
+C:\Users\gabri\eclipse-workspace\Intro-spring\src\main\java\br\com\unipe\aula\config\RootConfig.java
+C:\Users\gabri\eclipse-workspace\Intro-spring\src\main\java\br\com\unipe\aula\config\SpringMvcConfig.java
+C:\Users\gabri\eclipse-workspace\Intro-spring\src\main\java\br\com\unipe\aula\config\SpringInitConfig.java
+C:\Users\gabri\eclipse-workspace\Intro-spring\src\main\java\br\com\unipe\aula\dao\TorcedorDAO.java
+C:\Users\gabri\eclipse-workspace\Intro-spring\src\main\java\br\com\aula\model\Torcedor.java
+C:\Users\gabri\eclipse-workspace\Intro-spring\src\main\java\br\com\unipe\aula\controller\WelcomeController.java
+>>>>>>> e825eaa (firt commit)
